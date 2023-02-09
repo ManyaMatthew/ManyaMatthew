@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManyaMatthew
 - 👀 I’m interested in coding and development.
 - 🌱 I’m currently learning prgramming.
-- 💞️ I’m looking to collaborate on different people.
+- 💞️ I’m looking forward to collaborating with different people.
 - 📫 How to reach me manyamatt33@gmail.com
 
 <!---
